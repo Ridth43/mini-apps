@@ -3,6 +3,7 @@
 # Create VK Mini App [![npm][npm]][npm-url] [![deps][deps]][deps-url]
 
 ## How to use
+![persik](https://user-images.githubusercontent.com/92756118/137997842-14433d0e-9479-4cce-8097-7b33e8e92e18.png)
 
 ### With NPX
 
@@ -18,7 +19,7 @@ yarn global add @vkontakte/create-vk-mini-app
 ```
 ...or npm
 ```bash
-npm install --global @vkontakte/create-vk-mini-app
+npm install --global @vkontakte/create-vk-mini-app 
 ```
 
 and use as follows
